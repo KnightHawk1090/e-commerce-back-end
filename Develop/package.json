@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnightHawk1090/e-commerce-back-end.git"
+  },
+  "author": "E Partain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KnightHawk1090/e-commerce-back-end/issues"
+  },
+  "homepage": "https://github.com/KnightHawk1090/e-commerce-back-end#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mysql2": "^3.2.4",
+    "sequelize": "^6.31.1"
+  }
+}
