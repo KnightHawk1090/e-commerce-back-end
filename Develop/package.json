@@ -5,7 +5,9 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +21,7 @@
   "homepage": "https://github.com/KnightHawk1090/e-commerce-back-end#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
+    "express": "^4.18.2",
     "mysql2": "^3.2.4",
     "sequelize": "^6.31.1"
   }
