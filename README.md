@@ -28,3 +28,13 @@ THEN I am able to successfully create, update, and delete data in my database
 https://github.com/KnightHawk1090/e-commerce-back-end
 
 ### Link to Video Demonstration
+
+
+
+### DISCLAIMER
+```
+Before running appliction, add proper password to access personal SQL db in the .env file. 
+DB_NAME='ecommerce_db'
+DB_USER='root'
+DB_PW='xxxxx'
+```
