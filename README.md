@@ -31,6 +31,11 @@ https://github.com/KnightHawk1090/e-commerce-back-end
 
 https://drive.google.com/file/d/194YTjqTJ7EyNbRzgot1U7HKD9oOoGILS/view
 
+### Image Preview
+
+![Screenshot (42)](https://user-images.githubusercontent.com/121210332/236982157-0263bea2-6eb4-457a-920b-c12fce211fc8.png)
+
+
 ### DISCLAIMER
 ```
 Before running appliction, add proper password to access personal SQL db in the .env file. 
